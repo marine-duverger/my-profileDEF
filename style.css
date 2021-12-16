@@ -1,0 +1,64 @@
+body {
+	background: rgb(600,600,600);
+	color : black;(0,0,50) 
+	font-family: helvetica 
+}
+
+h1{
+	color: 048B9A;
+	font-family: calibri 
+	}
+h2{
+	color: pink;
+	font-family: calibri 
+}
+h1:hover	{color: beige}
+
+a{ 
+color: pink;
+font-family: helvetica 
+padding: 50px;}
+a:hover {color: purple}
+
+p{
+	color:grey;
+	font-family: helvetica
+}
+
+ul{
+	list-style-type: none;
+	color:grey;
+}
+
+li{
+	font-family: helvetica
+
+}
+
+img{
+    height: 215px; 
+    border-radius: 4%;
+}
+.img-circle{
+	border-radius: 20%
+}
+
+div{
+	background-color: #E2FCFB 
+
+
+}
+.container{
+	width: 700px;
+	box-shadow: 10px 20px 80px rgb(0 0 0/15%);
+	margin: 50px auto;
+	text-align: center;
+	padding: 20px;
+	border-radius: 6%
+}
+
+
+
+
+
+
